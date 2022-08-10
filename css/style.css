@@ -572,7 +572,7 @@
 .fh5co-social {
   position: relative;
   padding: 63px 0;
-  background-image: url("../images/social-bckg.jpg");
+  background-image: url("../images/walkator-klMii3cR9iI-unsplash.jpg");
   background-size: cover;
   background-position: center; }
   .fh5co-social::after {
@@ -749,6 +749,3 @@
         font-size: 14px;
         margin-bottom: 20px; } }
 
-.textareaform{
-  padding: 0px 100px 1000px 0;
-}
