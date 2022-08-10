@@ -748,3 +748,7 @@
       .footer-bottom-inner p {
         font-size: 14px;
         margin-bottom: 20px; } }
+
+.textareaform{
+  padding: 0px 100px 1000px 0;
+}
