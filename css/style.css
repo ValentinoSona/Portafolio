@@ -7,6 +7,19 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.cv{
+  text-decoration: none;
+  color: red;
+  border: solid 2px red;
+  padding: 10px 10px 10px 10px;
+}
+
+.cv:hover{
+  transition: 1s;
+  background-color: rgb(77, 75, 75);
+  border-radius: 20px;
+}
+
 .site-container {
   width: 1115px;
   margin: 0 auto; }
