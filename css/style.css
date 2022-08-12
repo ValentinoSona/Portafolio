@@ -16,8 +16,9 @@
 
 .cv:hover{
   transition: 1s;
-  background-color: rgb(77, 75, 75);
+  background-color: rgb(255, 0, 0);
   border-radius: 20px;
+  color: #000;
 }
 
 .site-container {
